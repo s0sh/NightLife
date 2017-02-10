@@ -1,0 +1,77 @@
+PODS:
+  - AHKActionSheet (0.5.4)
+  - Alamofire (3.4.1)
+  - Bolts (1.7.0):
+    - Bolts/AppLinks (= 1.7.0)
+    - Bolts/Tasks (= 1.7.0)
+  - Bolts/AppLinks (1.7.0):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.7.0)
+  - Crashlytics (3.7.1):
+    - Fabric (~> 1.6.3)
+  - CryptoSwift (0.5)
+  - DateTools (1.7.0)
+  - Fabric (1.6.7)
+  - FBSDKCoreKit (4.12.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.12.0):
+    - FBSDKCoreKit
+  - FDTake (0.3.2)
+  - Kingfisher (2.4.1)
+  - MBCircularProgressBar (0.3.4)
+  - ObjectMapper (1.3.0)
+  - RadioButton (1.0)
+  - RxAlamofire (2.5):
+    - RxAlamofire/Core (= 2.5)
+  - RxAlamofire/Core (2.5):
+    - Alamofire (~> 3.4)
+    - RxSwift (~> 2.5)
+  - RxCocoa (2.5.0):
+    - RxSwift (~> 2.5)
+  - RxDataSources (0.8.1):
+    - RxCocoa (~> 2.2)
+    - RxSwift (~> 2.2)
+  - RxSwift (2.5.0)
+  - SWRevealViewController (2.3.0)
+
+DEPENDENCIES:
+  - AHKActionSheet
+  - Alamofire
+  - Crashlytics
+  - CryptoSwift
+  - DateTools
+  - Fabric
+  - FBSDKLoginKit
+  - FDTake
+  - Kingfisher (~> 2.0)
+  - MBCircularProgressBar
+  - ObjectMapper
+  - RadioButton
+  - RxAlamofire
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - SWRevealViewController
+
+SPEC CHECKSUMS:
+  AHKActionSheet: f0b312b5c689f72924d231c39dae140ecd5c1d46
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  Bolts: a0058fa3b331c5a1e4402d534f2dae36dbff31e4
+  Crashlytics: 3cdd4c9655be68032a0cf0379e0fb5ef6af22cad
+  CryptoSwift: b89d89caad9e5bc417b054078635eeb22bcddf54
+  DateTools: 53288ee8b905fdc75897a1e6b5cc0144b14cba60
+  Fabric: caf7580c725e64db144f610ac65cd60956911dc7
+  FBSDKCoreKit: 6e56d5a2a64a755ad4efb5dbeee8f82fb1b99775
+  FBSDKLoginKit: 03f68a8d48c2c8bb81d7eb8097973d483543e1f6
+  FDTake: 122aaf465673b05648cd1b40200a19c85b1aa9e0
+  Kingfisher: 41aed5b6c1ed8fa98cf6d75283ce89cf7890f517
+  MBCircularProgressBar: ff3b8e2f441214d9ee122a24ba0d4d00cc7de881
+  ObjectMapper: 4eb08a726e9791a93b2632049951b56a7c17e471
+  RadioButton: 7ef053baf6ff0e7f9e777016c28e9ba4e330edba
+  RxAlamofire: b4572a077b6b2410c8732a27266299df4c00736e
+  RxCocoa: e1b1562e57a554d0fb2aabf9d71b637f177257c7
+  RxDataSources: 4a87345847d66ef84ecc10bdfa189190f3cd6b12
+  RxSwift: 402b41a50e922a0368fc14cb3bc9f4427920e8ae
+  SWRevealViewController: 6d3fd97f70112fd7cef9de14df4260eacce4c63a
+
+COCOAPODS: 0.39.0
